@@ -1,0 +1,2326 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://www.newshub.co.nz/home/lifestyle/2019/08/accidental-potential-breakthrough-in-new-cancer-drug-development.html">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Part>
+                <dc:title>Lifestyle</dc:title>
+                <dcterms:isPartOf>
+                   <bib:Newspaper><dc:title>Newshub</dc:title></bib:Newspaper>
+                </dcterms:isPartOf>
+            </bib:Part>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCone</foaf:surname>
+                        <foaf:givenName>Jordan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>Accidental potential breakthrough in new cancer drug development</dc:title>
+        <dcterms:abstract>But it could still be years away from reaching a clinical stage.</dcterms:abstract>
+        <dc:date>08/2919</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.newshub.co.nz</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.newshub.co.nz/home/lifestyle/2019/08/accidental-potential-breakthrough-in-new-cancer-drug-development.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:37:56</dcterms:dateSubmitted>
+        <dc:description>Here is some media coverage we got last year regarding some work that was, in part, done in Raapoi. Hope this helps :slightly_smiling_face: At least two related publications that heavily relied on Raapoi coming very soon...</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.newshub.co.nz/home/lifestyle/2019/08/accidental-potential-breakthrough-in-new-cancer-drug-development.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:38:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://github.com/medema-group/bigslice/pull/30">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>GitHub</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Somerville</foaf:surname>
+                        <foaf:givenName>Walter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4"/>
+        <dc:title>Select cpus from os.sched_getaffinity() by waltersom · Pull Request #30 · medema-group/bigslice</dc:title>
+        <dcterms:abstract>On a multi-user cluster with cgroups enforcing CPU affinity, the taskset lines fail, as cores not assigned to the job may be selected.
+This gets the set of cores assigned, and only assigns cores in...</dcterms:abstract>
+        <dc:date>13 November 2020</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/medema-group/bigslice/pull/30</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:42:12</dcterms:dateSubmitted>
+        <dc:description>Following a problem raised on slack by @Vincent Nowak about the behaviour of bigslice on Rāpoi (https://uwrc.slack.com/archives/CEG6B9H8W/p1605122929128600), I sent a pull-request to the authors with a fix (https://github.com/medema-group/bigslice/pull/30), which is now included as commit</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/medema-group/bigslice/pull/30</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:42:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.wgtn.ac.nz/business/about/news/2020/insurance-retreat-research-launches">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Owen</foaf:surname>
+                        <foaf:givenName>Sally</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6"/>
+        <dc:title>Sea advances, insurance retreats | Wellington School of Business and Government | Victoria University of Wellington</dc:title>
+        <dc:date>2 December 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.wgtn.ac.nz/business/about/news/2020/insurance-retreat-research-launches</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:43:07</dcterms:dateSubmitted>
+        <dc:description>Owners of coveted Kiwi homes with to-die-for sea views are about to face something far less desirable—rapidly swelling insurance premiums as sea-level rises.</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Sea advances, insurance retreats | Wellington School of Business and Government | Victoria University of Wellington</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.wgtn.ac.nz/business/about/news/2020/insurance-retreat-research-launches</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:43:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://jdmdh.episciences.org/7018/pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>HistoInformatics</prism:volume>
+                <dc:title>Journal of Data Mining &amp; Digital Humanities</dc:title>
+                <dc:identifier>DOI 10.46298/jdmdh.6095</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chan</foaf:surname>
+                        <foaf:givenName>Valerie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reihana</foaf:surname>
+                        <foaf:givenName>Pikihuia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pope</foaf:surname>
+                        <foaf:givenName>Rere-No-A.-Rangi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Owen</foaf:surname>
+                        <foaf:givenName>Rhys</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Frean</foaf:surname>
+                        <foaf:givenName>Marcus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shep</foaf:surname>
+                        <foaf:givenName>Sydney</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>Indigenous frameworks for data-intensive humanities: recalibrating the past through knowledge engineering and generative modelling.</dc:title>
+        <dcterms:abstract>Identifying, contacting and engaging missing shareholders constitutes an enormous challenge for Māori incorporations, iwi and hapū across Aotearoa New Zealand. Without accurate data or tools to har-monise existing fragmented or conflicting data sources, issues around land succession, opportunities for economic development, and maintenance of whānau relationships are all negatively impacted. This unique three-way research collaboration between Victoria University of Wellington (VUW), Parininihi ki Waitotara Incorporation (PKW), and University of Auckland funded by the National Science Challenge | Science for Technological Innovation catalyses innovation through new digital humanities-inflected data science modelling and analytics with the kaupapa of reconnecting missing Māori shareholders for a prosperous economic, cultural, and socially revitalised future. This paper provides an overview of VUW's culturally-embedded social network approach to the project, discusses the challenges of working within an indigenous worldview, and emphasises the importance of decolonising digital humanities.</dcterms:abstract>
+        <dc:date>2021-01-08</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Indigenous frameworks for data-intensive humanities</z:shortTitle>
+        <z:libraryCatalog>jdmdh.episciences.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://jdmdh.episciences.org/7018/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:46:25</dcterms:dateSubmitted>
+        <dc:description>Great work from @Rhys, @Rere-No-A-Rangi Pope et al, ka mau te wehi! Indigenous frameworks for data-intensive humanities: recalibrating the past through knowledge engineering and generative modelling. https://jdmdh.episciences.org/7018/pdf</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://jdmdh.episciences.org/7018/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:46:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://jdmdh.episciences.org/7018</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:46:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.rsc.org/en/content/articlelanding/2021/tc/d0tc05697a">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>9</prism:volume>
+                <dc:title>Journal of Materials Chemistry C</dc:title>
+                <dc:identifier>DOI 10.1039/D0TC05697A</dc:identifier>
+                <prism:number>4</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>A. Hume</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiao</foaf:surname>
+                        <foaf:givenName>Wanting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>M. Hodgkiss</foaf:surname>
+                        <foaf:givenName>Justin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_12"/>
+        <link:link rdf:resource="#item_14"/>
+        <dc:title>Long-range exciton diffusion in a non-fullerene acceptor: approaching the incoherent limit</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Long-range exciton diffusion in a non-fullerene acceptor</z:shortTitle>
+        <z:libraryCatalog>pubs.rsc.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.rsc.org/en/content/articlelanding/2021/tc/d0tc05697a</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:47:05</dcterms:dateSubmitted>
+        <dc:description>Publisher: Royal Society of Chemistry</dc:description>
+        <bib:pages>1419-1428</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.rsc.org/en/content/articlepdf/2021/tc/d0tc05697a</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:47:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_14">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.rsc.org/en/content/articlehtml/2021/tc/d0tc05697a</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:47:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.rsc.org/en/content/articlelanding/2021/ce/d1ce00039j">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>23</prism:volume>
+                <dc:title>CrystEngComm</dc:title>
+                <dc:identifier>DOI 10.1039/D1CE00039J</dc:identifier>
+                <prism:number>8</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Humphreys</foaf:surname>
+                        <foaf:givenName>Joshua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pop</foaf:surname>
+                        <foaf:givenName>Flavia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>A. Hume</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>S. Murphy</foaf:surname>
+                        <foaf:givenName>Alanna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stephen Davies</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>P. Argent</foaf:surname>
+                        <foaf:givenName>Stephen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>B. Amabilino</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <link:link rdf:resource="#item_15"/>
+        <dc:title>Solid state structure and properties of phenyl diketopyrrolopyrrole derivatives</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>pubs.rsc.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.rsc.org/en/content/articlelanding/2021/ce/d1ce00039j</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:47:12</dcterms:dateSubmitted>
+        <dc:description>Publisher: Royal Society of Chemistry</dc:description>
+        <bib:pages>1796-1814</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.rsc.org/en/content/articlepdf/2021/ce/d1ce00039j</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:47:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.rsc.org/en/content/articlehtml/2021/ce/d1ce00039j</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:47:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1080/00288330.2021.1912119">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0028-8330"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Papa</foaf:surname>
+                        <foaf:givenName>Yvan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Halliwell</foaf:surname>
+                        <foaf:givenName>Alexander G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morrison</foaf:surname>
+                        <foaf:givenName>Mark A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wellenreuther</foaf:surname>
+                        <foaf:givenName>Maren</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ritchie</foaf:surname>
+                        <foaf:givenName>Peter A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_17"/>
+        <link:link rdf:resource="#item_18"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>demography</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>fisheries management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>king tarakihi</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>mtDNA control region</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Population genetics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>stock structure</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>tarakihi</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>teleost</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Phylogeographic structure and historical demography of tarakihi (Nemadactylus macropterus) and king tarakihi (Nemadactylus n.sp.) in New Zealand</dc:title>
+        <dcterms:abstract>Tarakihi (Nemadactylus macropterus) is a demersal fish that supports valuable commercial, recreational, and customary fisheries in New Zealand. However, little is known about its stock structure. The population genetic structure, genetic diversity, and demographic history of N. macropterus were investigated using the hypervariable region one of the mitochondrial control region. 370 samples from 14 locations around New Zealand were collected. While weak genetic breaks were detected between Hawke’s Bay and East Northland and between the west and east coasts of South Island, no clear genetic structure was detected for the overall New Zealand area (ФST = 0.002, P = 0.18), indicative of a panmictic genetic structure. N. macropterus display a high level of genetic diversity and appear to have a historically large and stable population with a long evolutionary history. Bayesian skyline analysis indicates that the historic population has gone through two expansions, likely caused by repeated glacial cycles during the second half of the Pleistocene. The addition of 15 king tarakihi samples (Nemadactylus n.sp.) collected from the Three Kings Islands showed a clear genetic differentiation between the two morphotypes. These findings can inform the future management of N. macropterus and N. n.sp. to ensure a sustainable harvest.</dcterms:abstract>
+        <dc:date>April 7, 2021</dc:date>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/00288330.2021.1912119</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:47:28</dcterms:dateSubmitted>
+        <dc:description>New publication in the New Zealand Journal of Marine and Freshwater Research. Rāpoi is cited in the text</dc:description>
+        <bib:pages>1-25</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0028-8330">
+        <prism:volume>0</prism:volume>
+        <dc:title>New Zealand Journal of Marine and Freshwater Research</dc:title>
+        <dc:identifier>DOI 10.1080/00288330.2021.1912119</dc:identifier>
+        <prism:number>0</prism:number>
+        <dc:identifier>ISSN 0028-8330</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/00288330.2021.1912119</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:47:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/00288330.2021.1912119</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:47:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://link.aps.org/doi/10.1103/PhysRevB.104.075124">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>104</prism:volume>
+                <dc:title>Physical Review B</dc:title>
+                <dc:identifier>DOI 10.1103/PhysRevB.104.075124</dc:identifier>
+                <prism:number>7</prism:number>
+                <dcterms:alternative>Phys. Rev. B</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holmes-Hewett</foaf:surname>
+                        <foaf:givenName>W. F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_20"/>
+        <link:link rdf:resource="#item_21"/>
+        <dc:title>Electronic structure of nitrogen-vacancy doped SmN: Intermediate valence and $4f$ transport in a ferromagnetic semiconductor</dc:title>
+        <dcterms:abstract>SmN is an intrinsic ferromagnetic semiconductor with electrical transport properties that have been of recent experimental interest. Its conductivity is largely dictated by the concentration of nitrogen vacancies that dope the crystal with electrons. Here, we present a density functional theory based study of SmN, variously doped with nitrogen vacancies. We find that the Sm ions which coordinate a nitrogen vacancy take on an intermediate 2–3+ valence, while the remaining Sm ions in the crystal remain trivalent. Our results show that the localized 4f states hybridize with the extended state Sm 5d and N 2p bands and are involved in electron transport throughout the crystal.</dcterms:abstract>
+        <dc:date>August 16, 2021</dc:date>
+        <z:shortTitle>Electronic structure of nitrogen-vacancy doped SmN</z:shortTitle>
+        <z:libraryCatalog>APS</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.aps.org/doi/10.1103/PhysRevB.104.075124</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:48:08</dcterms:dateSubmitted>
+        <dc:description>Publication in Physical Review B, Raapoi cited.Publisher: American Physical Society</dc:description>
+        <bib:pages>075124</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_20">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.aps.org/prb/pdf/10.1103/PhysRevB.104.075124</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:48:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>APS Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.075124</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:48:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2019/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Royal Society Te Apārangi</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Preuss</foaf:surname>
+                        <foaf:givenName>Maren</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_23"/>
+        <dc:title>Marsden Fund awards 2019</dc:title>
+        <dcterms:abstract>View Marsden Fund grants awarded in 2019</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2019/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:48:40</dcterms:dateSubmitted>
+        <dc:description>My current Marsden Fast-Start (2020-2023) also relies on Rāpoi for the majority of the data assembly and analyses: https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2019/ First publications hopefully follow next year. Will make sure to cite Rāpoi.</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2019/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:48:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_26">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1466-8033"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Humphreys</foaf:surname>
+                        <foaf:givenName>Joshua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pop</foaf:surname>
+                        <foaf:givenName>Flavia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hume</foaf:surname>
+                        <foaf:givenName>Paul A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murphy</foaf:surname>
+                        <foaf:givenName>Alanna S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davies</foaf:surname>
+                        <foaf:givenName>E. Stephen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Argent</foaf:surname>
+                        <foaf:givenName>Stephen P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amabilino</foaf:surname>
+                        <foaf:givenName>David B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_27"/>
+        <link:link rdf:resource="#item_28"/>
+        <link:link rdf:resource="#item_31"/>
+        <dc:title>Solid state structure and properties of phenyl diketopyrrolopyrrole derivatives</dc:title>
+        <dcterms:abstract>The solid state supramolecular interactions of diketopyrrolopyrrole derivatives (DPPs) and their correlation with thin film optical properties are of particular interest because of the applications of these materials in organic electronics. In this study, we report the single crystal X-ray structures of several phenyl DPP derivatives, containing 4-methoxyphenyl, 4-hydroxyphenyl and 4-((tetrahydro-2H-pyran-2-yl)oxy)phenyl aryl units, and show how subtle changes in the substituent chains at side or end positions of the chromophore can lead to very different packing. They are compared to their phenyl counterpart to explore how the nature of both the alkyl chain and the aryl unit influence the optical properties that have been measured in solid and solution states. Importantly, for the three families of N-substituted compounds studied, the structures are changed by the conformation of the molecules and are apparently dominated by crystal packing effects where edge-to-face interactions are favoured rather than π stacking, with only one of the compounds showing a flat form, promoted by intermolecular contacts between the aromatic regions. It is therefore possible that the twist between DPP and phenyl units in crystals of DPPs results from edge-to-face interactions (rather than steric interactions between the N-substituent and the protons attached to the aromatic ring) that might be overcome in more extended structures. Hydrogen bonding dominates the packing to generate chains of DPP units for phenol derivatives. Remote bulky groups do affect the core conformation. The emission of the materials as thin films is dominated by local effects in the packing of the materials that are unique for each case as the structures are distinct from one another. Charge mobility (as calculated from the crystal structures) is not favoured because of twisted conformations and large displacement, but the sometimes high emission and large Stokes shift could make the materials interesting for other purposes, such as light emitters.</dcterms:abstract>
+        <dc:date>2021-03-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>pubs.rsc.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.rsc.org/en/content/articlelanding/2021/ce/d1ce00039j</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:49:27</dcterms:dateSubmitted>
+        <dc:description>Publisher: The Royal Society of Chemistry</dc:description>
+        <bib:pages>1796-1814</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1466-8033">
+        <prism:volume>23</prism:volume>
+        <dc:title>CrystEngComm</dc:title>
+        <dc:identifier>DOI 10.1039/D1CE00039J</dc:identifier>
+        <prism:number>8</prism:number>
+        <dcterms:alternative>CrystEngComm</dcterms:alternative>
+        <dc:identifier>ISSN 1466-8033</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_27">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.rsc.org/en/content/articlepdf/2021/ce/d1ce00039j</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:49:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_28">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.rsc.org/en/content/articlelanding/2021/ce/d1ce00039j</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:49:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Supplementary Information PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.rsc.org/suppdata/d1/ce/d1ce00039j/d1ce00039j1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:49:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0143720821007026">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0143-7208"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Humphreys</foaf:surname>
+                        <foaf:givenName>Joshua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Malagreca</foaf:surname>
+                        <foaf:givenName>Ferdinando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hume</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davies</foaf:surname>
+                        <foaf:givenName>E. Stephen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Argent</foaf:surname>
+                        <foaf:givenName>Stephen P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amabilino</foaf:surname>
+                        <foaf:givenName>David B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_30"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Crystal engineering</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Fluorescent</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Imide</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Switch</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Modulation of the optical properties of soluble N-alkylated 4-pyridyl diketopyrrolopyrrole derivatives</dc:title>
+        <dcterms:abstract>The absorption and fluorescence properties of N-alkylated 3,6-di (pyridin-4-yl)-2,5-dihydropyrrolo [3,4-c]pyrrole-1,4-dione (PyrDPP NH) derivatives in solution and the solid state are reported, along with the modulation of these properties under varying acidity or basicity. The compounds with hexyl (PyrDPP N-Hex) and methoxy ethoxy ethyl (PyrDPP N-MEE) chains were synthesised from PyrDPP NH giving highly soluble dyes. In addition, the mono-substituted derivatives were also isolated. A range of solvents was explored to provide understanding regarding their potential use in applications ranging from organic electronics to sensors. Optically the dyes are highly fluorescent and, as a result of N-alkylation breaking the hydrogen bond network, emissive in the solid state with large Stokes shifts. The nature of the chain dictates the π interactions and packing of the materials, resulting in modulation of the solid-state absorption spectra and theoretical mobility predicted from the crystal structures. The methoxy ethoxy ethyl chain twists out of the plane and bends to allow considerable molecular overlap and small interchromophore displacement with strikingly similar π interactions to the parent PyrDPP NH, resulting in a contribution of H-type aggregation to the absorption band and an order of magnitude improvement in theoretical mobility compared with the hexyl analogue. In contrast, PyrDPP N-Hex possesses a distorted CH-π interaction between pyridyl and lactam units, with greater molecular displacement manifesting in dominant J -aggregation contribution to absorption band and moderate mobility. The results emphasise the potential for sidechain modification and show structural evidence for the potential benefits of the flexible polar chains. The nitrogen lone pair of the pyridyl ring can be protonated in acidic environment to produce a photometric response suggesting potential as a proton sensor. The mono-substituted compounds are responsive to both base and acid, making them interesting for molecular logic applications.</dcterms:abstract>
+        <dc:date>January 1, 2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0143720821007026</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:49:39</dcterms:dateSubmitted>
+        <bib:pages>109836</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0143-7208">
+        <prism:volume>197</prism:volume>
+        <dc:title>Dyes and Pigments</dc:title>
+        <dc:identifier>DOI 10.1016/j.dyepig.2021.109836</dc:identifier>
+        <dcterms:alternative>Dyes and Pigments</dcterms:alternative>
+        <dc:identifier>ISSN 0143-7208</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0143720821007026</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:49:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1093/mnras/stab2706">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0035-8711"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrott</foaf:surname>
+                        <foaf:givenName>Yvette C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carvalho</foaf:surname>
+                        <foaf:givenName>Pedro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Elwood</foaf:surname>
+                        <foaf:givenName>Patrick J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grainge</foaf:surname>
+                        <foaf:givenName>Keith J B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Green</foaf:surname>
+                        <foaf:givenName>David A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Javid</foaf:surname>
+                        <foaf:givenName>Kamran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jin</foaf:surname>
+                        <foaf:givenName>Terry Z</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rumsey</foaf:surname>
+                        <foaf:givenName>Clare</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saunders</foaf:surname>
+                        <foaf:givenName>Richard D E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_35"/>
+        <link:link rdf:resource="#item_36"/>
+        <dc:title>A 15.5 GHz detection of the galaxy cluster minihalo in RXJ1720.1+2638</dc:title>
+        <dcterms:abstract>RXJ1720.1+2638 is a cool-core, ‘relaxed-appearing’ cluster with a minihalo previously detected up to 8.4 GHz, confined by X-ray-detected cold fronts. We present observations of the minihalo at 13–18 GHz with the Arcminute Microkelvin Imager telescope, simultaneously modelling the Sunyaev–Zel’dovich signal of the cluster in conjunction with Planck and Chandra data in order to disentangle the non-thermal emission of the minihalo. We show that the previously reported steepening of the minihalo emission at 8.4 GHz is not supported by the AMI data and that the spectrum is consistent with a single power law up to 18 GHz. We also show the presence of a larger scale component of the minihalo extending beyond the cold fronts. Both of these observations could be explained by the ‘hadronic’ or ‘secondary’ mechanism for the production of relativistic electrons, rather than the currently favoured ‘re-acceleration’ mechanism and/or multiple episodes of jet activity from the active galactic nucleus in the brightest cluster galaxy.</dcterms:abstract>
+        <dc:date>December 1, 2021</dc:date>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/mnras/stab2706</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:50:23</dcterms:dateSubmitted>
+        <dc:description>New paper from me, with Rāpoi acknowledged: https://doi.org/10.1093/mnras/stab2706</dc:description>
+        <bib:pages>2862-2880</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0035-8711">
+        <prism:volume>508</prism:volume>
+        <dc:title>Monthly Notices of the Royal Astronomical Society</dc:title>
+        <dc:identifier>DOI 10.1093/mnras/stab2706</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Monthly Notices of the Royal Astronomical Society</dcterms:alternative>
+        <dc:identifier>ISSN 0035-8711</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/mnras/article-pdf/508/2/2862/40634471/stab2706.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:51:02</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_36">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/mnras/article/508/2/2862/6373941</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:51:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0009250921007612">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0009-2509"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harding</foaf:surname>
+                        <foaf:givenName>Brendan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_38"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Curved microfluidic ducts</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dean flow</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Secondary flow magnitude</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Vortex pair</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A new benchmark for the secondary fluid flow through curved ducts</dc:title>
+        <dcterms:abstract>Steady flow through curved ducts has numerous applications in the chemical engineering sciences. A recent example is within the field of microfluidics in which curved ducts have cross-section dimensions much smaller than one millimetre. The validation of steady fluid flow through curved microfluidic ducts is a crucial part of verifying any experimental work or numerical modelling in this field. Of particular interest is a measure of the secondary flow which consists of a counter-rotating vortex pair in the cross-sectional plane. We develop a new model for the magnitude of the secondary flow velocity within curved ducts having rectangular cross-sections. Our modelling respects the scaling at asymptotically small flow rates while carefully considering how this is modified for increasing Dean number. Lastly, we discuss why this new model is a more appropriate benchmark of the secondary flow than a power law model commonly found throughout the literature.</dcterms:abstract>
+        <dc:date>February 2, 2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0009250921007612</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:51:30</dcterms:dateSubmitted>
+        <dc:description>New paper acknowledging Rāpoi: https://doi.org/10.1016/j.ces.2021.117196</dc:description>
+        <bib:pages>117196</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0009-2509">
+        <prism:volume>248</prism:volume>
+        <dc:title>Chemical Engineering Science</dc:title>
+        <dc:identifier>DOI 10.1016/j.ces.2021.117196</dc:identifier>
+        <dcterms:alternative>Chemical Engineering Science</dcterms:alternative>
+        <dc:identifier>ISSN 0009-2509</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_38">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0009250921007612?via%3Dihub</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:51:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.joc.1c00174">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0022-3263"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Shi-Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hume</foaf:surname>
+                        <foaf:givenName>Paul A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sperry</foaf:surname>
+                        <foaf:givenName>Jonathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_40"/>
+        <link:link rdf:resource="#item_41"/>
+        <dc:title>Bioinspired Synthesis of the Furopyrazine Alkaloid Hyrtioseragamine A</dc:title>
+        <dcterms:abstract>A biosynthetic hypothesis proposed herein was used to guide the total synthesis of the marine-derived alkaloid hyrtioseragamine A. In the key biomimetic step, an enedione underwent acid-mediated isomerization–cyclodehydration to form the rare furopyrazine core of the natural product. The spectroscopic data for the synthetic sample is in full agreement with that described in the isolation report.</dcterms:abstract>
+        <dc:date>2021-03-19</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.joc.1c00174</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:52:22</dcterms:dateSubmitted>
+        <dc:description>Publisher: American Chemical Society</dc:description>
+        <bib:pages>4779-4785</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0022-3263">
+        <prism:volume>86</prism:volume>
+        <dc:title>The Journal of Organic Chemistry</dc:title>
+        <dc:identifier>DOI 10.1021/acs.joc.1c00174</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>J. Org. Chem.</dcterms:alternative>
+        <dc:identifier>ISSN 0022-3263</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/pdf/10.1021/acs.joc.1c00174</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:52:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_41">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ACS Full Text Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/full/10.1021/acs.joc.1c00174</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:52:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202108934">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1521-3773"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Evans</foaf:surname>
+                        <foaf:givenName>Matthew J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anker</foaf:surname>
+                        <foaf:givenName>Mathew D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McMullin</foaf:surname>
+                        <foaf:givenName>Claire L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neale</foaf:surname>
+                        <foaf:givenName>Sam E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coles</foaf:surname>
+                        <foaf:givenName>Martyn P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_43"/>
+        <link:link rdf:resource="#item_44"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>aluminyl anion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>dihydrogen activation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>lithium aluminyl</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>sodium aluminyl</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Dihydrogen Activation by Lithium- and Sodium-Aluminyls</dc:title>
+        <dcterms:abstract>To date, aluminyl anions have been exclusively isolated as their potassium salts. We report herein the synthesis of the lithium and sodium aluminyls, M2[Al(NONDipp)]2 (M=Li, Na. NONDipp=[O(SiMe2NDipp)2]2−; Dipp=2,6-iPr2C6H3). Both compounds crystallize from non-coordinating solvent as “slipped” contacted dimeric pairs with strong M⋅⋅⋅π(aryl) interactions. Isolation from Et2O solution affords the monomeric ion pairs (NONDipp)Al-M(Et2O)2, which contain discrete Al−Li and Al−Na bonds. The ability of the full series of Li, Na and K aluminyls to activate dihydrogen is reported.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202108934</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:54:59</dcterms:dateSubmitted>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202108934</dc:description>
+        <bib:pages>22289-22292</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1521-3773">
+        <prism:volume>60</prism:volume>
+        <dc:title>Angewandte Chemie International Edition</dc:title>
+        <dc:identifier>DOI 10.1002/anie.202108934</dc:identifier>
+        <prism:number>41</prism:number>
+        <dc:identifier>ISSN 1521-3773</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/anie.202108934</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:55:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_44">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.202108934</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08 22:55:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003090">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1521-3765"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Keng Lung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feld</foaf:surname>
+                        <foaf:givenName>Joey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hume</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Söhnel</foaf:surname>
+                        <foaf:givenName>Tilo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leitao</foaf:surname>
+                        <foaf:givenName>Erin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_46"/>
+        <link:link rdf:resource="#item_47"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>amine</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>dealkylation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>H-phosphonate diesters</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ionic salt</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>mechanism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Synthesis and Mechanistic Considerations of a Series of Ammonium Monosubstituted H-Phosphonate Salts</dc:title>
+        <dcterms:abstract>A series of ammonium monosubstituted H-phosphonate salts were synthesized by combining H-phosphonate diesters with amines in the absence of solvent at 80 °C. Variation of the ester substituent and amine produced a range of ionic liquids with low melting points. The products and by-products were analyzed by spectroscopic and spectrometric techniques in order to get a better mechanistic picture of the dealkylation and formal dearylation observed. For dialkyl H-phosphonate diesters, (RO)2P(O)H (R=alkyl), the reaction proceeds via direct dealkylation with the reactivity increasing in the order R=iPr&lt;Et&lt;Me corresponding to DFT calculated activation enthalpies of 22.6, 20.8, and 17.9 kcal mol−1. For the diphenyl H-phosphonate diesters, (PhO)2P(O)H, the dearylation was found to proceed via phenol-assisted formation of a 5-coordinate intermediate, (PhO)3PH(OH), from which P(OPh)3 and water were eliminated. The presence of an equivalent of water then facilitated the formation of P(OH)2OPh and the amine, R'NH2, subsequently abstracted a proton from it to yield [(PhO)PH(O)O]-[R'NH3]+.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003090</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:52:48</dcterms:dateSubmitted>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202003090</dc:description>
+        <bib:pages>815-824</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1521-3765">
+        <prism:volume>27</prism:volume>
+        <dc:title>Chemistry – A European Journal</dc:title>
+        <dc:identifier>DOI 10.1002/chem.202003090</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 1521-3765</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202003090</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:52:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_47">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/chem.202003090</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:52:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.orglett.9b04567">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1523-7060"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choi</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shirley</foaf:surname>
+                        <foaf:givenName>Harry J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aitken</foaf:surname>
+                        <foaf:givenName>Harry R. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schulte</foaf:surname>
+                        <foaf:givenName>Tim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Söhnel</foaf:surname>
+                        <foaf:givenName>Tilo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hume</foaf:surname>
+                        <foaf:givenName>Paul A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brimble</foaf:surname>
+                        <foaf:givenName>Margaret A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Furkert</foaf:surname>
+                        <foaf:givenName>Daniel P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_49"/>
+        <link:link rdf:resource="#item_52"/>
+        <dc:title>Intermolecular Diels–Alder Cycloaddition/Cross-Coupling Sequences of 2-Bromo-1,3-butadienes</dc:title>
+        <dcterms:abstract>2-Bromo-1,3-butadienes are demonstrated to be effective substrates for tandem Diels–Alder/transition metal cross-coupling reaction sequences. Intermolecular cycloaddition of a 2-bromo-1,3-diene with activated dienophiles proceeded under Lewis acid catalysis in generally high yields with good to excellent endo diastereoselectivity. The resulting vinyl bromide cycloadducts underwent subsequent Stille and Suzuki cross-couplings under standard conditions in good yields. Both the Diels–Alder and cross-coupling steps were highly tolerant of a range of functionalities and protecting groups. The use of the bromine substituent as both a cycloaddition directing group and cross-coupling nucleofuge avoids extra steps required to install and remove the more commonly used silyl enol ethers and enol sulfonates for each transformation and gives full control of the alkene regiochemistry throughout the reaction sequence. The 2-bromo-1,3-dienes were conveniently prepared in three steps from readily available aldehydes and established as hydrolytically stable and practical synthetic intermediates.</dcterms:abstract>
+        <dc:date>2020-02-07</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.orglett.9b04567</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:53:19</dcterms:dateSubmitted>
+        <dc:description>Publisher: American Chemical Society</dc:description>
+        <bib:pages>1022-1027</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1523-7060">
+        <prism:volume>22</prism:volume>
+        <dc:title>Organic Letters</dc:title>
+        <dc:identifier>DOI 10.1021/acs.orglett.9b04567</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Org. Lett.</dcterms:alternative>
+        <dc:identifier>ISSN 1523-7060</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_49">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/pdf/10.1021/acs.orglett.9b04567</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:53:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_52">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ACS Full Text Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/full/10.1021/acs.orglett.9b04567</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:53:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jpca.9b10167">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1089-5639"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hume</foaf:surname>
+                        <foaf:givenName>Paul A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hodgkiss</foaf:surname>
+                        <foaf:givenName>Justin M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_51"/>
+        <link:link rdf:resource="#item_53"/>
+        <dc:title>A Projective Method for the Calculation of Excited-State Electronic Coupling: Isolating Charge Transfer/Recombination Processes in Organic Photovoltaics</dc:title>
+        <dcterms:abstract>Electronic coupling between excited states is a vital parameter required to describe ultrafast energy and charge transfer processes that occur in photoresponsive organic materials. In such systems, short-range Coulombic, exchange, overlap, and configuration interaction effects must all be accounted for. Although a number of methods are available, the evaluation of coupling between arbitrary excited states remains challenging. In this contribution, a flexible and scalable method for the calculation of short-range electronic coupling between excited states is developed. Excitation- or charge-localized states are projected onto the adiabatic states of a dimeric molecular system using an efficient wave function overlap algorithm. In addition to correctly treating Coulombic, exchange, and overlap contributions, the inclusion of multistate interactions is inherent in the procedure. The method is then used to disentangle excitation energy transfer, charge transfer, and charge recombination processes in donor/acceptor systems relevant to organic photovoltaics, with a view toward the development of material design principles. Calculations were performed within single-excitation frameworks, but the scheme has the potential to be extended to multireference/higher-order excitation quantum-chemical methods.</dcterms:abstract>
+        <dc:date>2020-01-23</dc:date>
+        <z:shortTitle>A Projective Method for the Calculation of Excited-State Electronic Coupling</z:shortTitle>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jpca.9b10167</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:53:26</dcterms:dateSubmitted>
+        <dc:description>Publisher: American Chemical Society</dc:description>
+        <bib:pages>591-600</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1089-5639">
+        <prism:volume>124</prism:volume>
+        <dc:title>The Journal of Physical Chemistry A</dc:title>
+        <dc:identifier>DOI 10.1021/acs.jpca.9b10167</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>J. Phys. Chem. A</dcterms:alternative>
+        <dc:identifier>ISSN 1089-5639</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_51">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/pdf/10.1021/acs.jpca.9b10167</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:53:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_53">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ACS Full Text Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/full/10.1021/acs.jpca.9b10167</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:53:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s00040-019-00730-y">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1420-9098"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Felden</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baty</foaf:surname>
+                        <foaf:givenName>J. W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bulgarella</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>R. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dobelmann</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gruber</foaf:surname>
+                        <foaf:givenName>M. A. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quinn</foaf:surname>
+                        <foaf:givenName>O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lester</foaf:surname>
+                        <foaf:givenName>P. J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_55"/>
+        <dc:title>Viral and fungal pathogens associated with Pneumolaelaps niutirani (Acari: Laelapidae): a mite found in diseased nests of Vespula wasps</dc:title>
+        <dcterms:abstract>Introduced social wasps (Vespula spp.) are a pest in many parts of the world. Recently, a mite species (Pneumolaelaps niutirani) was described and associated with disease symptoms in wasps. The mite does not appear to directly parasitise the wasps, but has been observed in high abundance, feeding on exudates from the mouths of larvae. We investigated the viral and fungal pathogens community in these mites and wasps. We found known viruses including Moku virus in both wasps and mites. Moku virus replicated in mites, likely indicating parasitism. Deformed wing virus, commonly found in wasps, was also detected in mite samples. Furthermore, the presence of putative viral transcripts related to 38 distinct viruses, including seven viruses previously isolated from arthropods, indicated that there may be many more viruses associated with the mite that are potentially shared with Vespula wasps. We also found generalist entomopathogenic fungus Aspergillus to infect both mites and wasps. Twelve distinct Aspergillus species were observed, all of which were found in wasp larvae from nests displaying symptoms of disease, with only one species in larvae from apparently healthy nests. Aspergillus novofumigatus was the most common of these species observed in wasps. Six Aspergillus species, including A. novofumigatus were detected in mites. Aspergillus loads were significantly higher in larvae from diseased nests. Our exploratory study indicates that mites can harbour both viruses and fungi that infect wasps, providing avenues of research into biological control using mites as infection vectors.</dcterms:abstract>
+        <dc:date>2020-02-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Viral and fungal pathogens associated with Pneumolaelaps niutirani (Acari</z:shortTitle>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s00040-019-00730-y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:53:45</dcterms:dateSubmitted>
+        <bib:pages>83-93</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1420-9098">
+        <prism:volume>67</prism:volume>
+        <dc:title>Insectes Sociaux</dc:title>
+        <dc:identifier>DOI 10.1007/s00040-019-00730-y</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Insect. Soc.</dcterms:alternative>
+        <dc:identifier>ISSN 1420-9098</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_55">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs00040-019-00730-y.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:53:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-3-030-16670-0">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Lecture Notes in Computer Science</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-030-16670-0</dc:identifier>
+                <dc:title>Genetic Programming</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-030-16670-0_8</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lensen</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xue</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Mengjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sekanina</foaf:surname>
+                        <foaf:givenName>Lukas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Ting</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lourenço</foaf:surname>
+                        <foaf:givenName>Nuno</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Richter</foaf:surname>
+                        <foaf:givenName>Hendrik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Sánchez</foaf:surname>
+                        <foaf:givenName>Pablo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_57"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Dimensionality reduction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Feature construction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Genetic programming</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Manifold learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Can Genetic Programming Do Manifold Learning Too?</dc:title>
+        <dcterms:abstract>Exploratory data analysis is a fundamental aspect of knowledge discovery that aims to find the main characteristics of a dataset. Dimensionality reduction, such as manifold learning, is often used to reduce the number of features in a dataset to a manageable level for human interpretation. Despite this, most manifold learning techniques do not explain anything about the original features nor the true characteristics of a dataset. In this paper, we propose a genetic programming approach to manifold learning called GP-MaL which evolves functional mappings from a high-dimensional space to a lower dimensional space through the use of interpretable trees. We show that GP-MaL is competitive with existing manifold learning algorithms, while producing models that can be interpreted and re-used on unseen data. A number of promising future directions of research are found in the process.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <bib:pages>114-130</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_57">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%252F978-3-030-16670-0_8.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:54:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-3-319-77553-1">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Lecture Notes in Computer Science</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-319-77553-1</dc:identifier>
+                <dc:title>Genetic Programming</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-319-77553-1_6</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lensen</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xue</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Mengjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Castelli</foaf:surname>
+                        <foaf:givenName>Mauro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sekanina</foaf:surname>
+                        <foaf:givenName>Lukas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Mengjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cagnoni</foaf:surname>
+                        <foaf:givenName>Stefano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Sánchez</foaf:surname>
+                        <foaf:givenName>Pablo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_59"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Evolutionary computation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Feature construction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Feature creation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Feature selection</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Genetic programming</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mutual information</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Generating Redundant Features with Unsupervised Multi-tree Genetic Programming</dc:title>
+        <dcterms:abstract>Recently, feature selection has become an increasingly important area of research due to the surge in high-dimensional datasets in all areas of modern life. A plethora of feature selection algorithms have been proposed, but it is difficult to truly analyse the quality of a given algorithm. Ideally, an algorithm would be evaluated by measuring how well it removes known bad features. Acquiring datasets with such features is inherently difficult, and so a common technique is to add synthetic bad features to an existing dataset. While adding noisy features is an easy task, it is very difficult to automatically add complex, redundant features. This work proposes one of the first approaches to generating redundant features, using a novel genetic programming approach. Initial experiments show that our proposed method can automatically create difficult, redundant features which have the potential to be used for creating high-quality feature selection benchmark datasets.</dcterms:abstract>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <bib:pages>84-100</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_59">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%252F978-3-319-77553-1_6.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:54:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-5618-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>GECCO '18</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-1-4503-5618-3</dc:identifier>
+                <dc:title>Proceedings of the Genetic and Evolutionary Computation Conference</dc:title>
+                <dc:identifier>DOI 10.1145/3205455.3205552</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York, NY, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Association for Computing Machinery</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lensen</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xue</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Mengjie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_61"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>feature creation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>feature selection</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>genetic programming</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>mutual information</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Automatically evolving difficult benchmark feature selection datasets with genetic programming</dc:title>
+        <dcterms:abstract>There has been a wealth of feature selection algorithms proposed in recent years, each of which claims superior performance in turn. A wide range of datasets have been used to compare these algorithms, each with different characteristics and quantities of redundant and noisy features. Hence, it is very difficult to comprehensively and fairly compare these feature selection methods in order to find which are most robust and effective. In this work, we examine using Genetic Programming to automatically synthesise redundant features for augmenting existing datasets in order to more scientifically test feature selection performance. We develop a method for producing complex multi-variate redundancies, and present a novel and intuitive approach to ensuring a range of redundancy relationships are automatically created. The application of these augmented datasets to well-established feature selection algorithms shows a number of interesting and useful results and suggests promising directions for future research in this area.</dcterms:abstract>
+        <dc:date>July 2, 2018</dc:date>
+        <z:libraryCatalog>ACM Digital Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1145/3205455.3205552</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-08</dcterms:dateSubmitted>
+        <bib:pages>458–465</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_61">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/pdf/10.1145/3205455.3205552</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:54:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://neobiota.pensoft.net/article/36086/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1314-2488"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Felden</foaf:surname>
+                        <foaf:givenName>Antoine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Paris</foaf:surname>
+                        <foaf:givenName>Carolina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chapple</foaf:surname>
+                        <foaf:givenName>David G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Suarez</foaf:surname>
+                        <foaf:givenName>Andrew V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsutsui</foaf:surname>
+                        <foaf:givenName>Neil D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lester</foaf:surname>
+                        <foaf:givenName>Philip J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gruber</foaf:surname>
+                        <foaf:givenName>Monica A. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_65"/>
+        <link:link rdf:resource="#item_67"/>
+        <dc:title>Native and introduced Argentine ant populations are characterised by distinct transcriptomic signatures associated with behaviour and immunity</dc:title>
+        <dcterms:abstract>Biological invasions can be influenced by trait variation in the invader, such as behavioural traits and ecological factors, such as variation in pathogen pressure. High-throughput nucleotide sequencing has increased our capacity to investigate the genomic basis of the functional changes associated with biological invasions. Here, we used RNA-sequencing in Argentina and California, Australia and New Zealand to investigate if native and introduced Argentine ant populations were characterised by distinct transcriptomic signatures. We focused our analysis on viral pressure and immunity, as well as genes associated with biogenic amines known to modulate key behaviour in social insects. Using a combination of differential expression analysis, gene co-expression network analysis and candidate gene approach, we show that native and introduced populations have distinct transcriptomic signatures. Genes associated with biogenic amines were overall up-regulated in the native range compared to introduced populations. Although we found no significant variation in overall viral loads amongst regions for viruses known to infect Argentine ants, viral diversity was lower in most of the introduced range which was interestingly associated with down-regulation of the RNAi immune pathway, primarily directed against viruses. Altogether, our data show that Argentine ant populations exhibit range-specific transcriptomic signatures, perhaps reflecting regional adaptations that may contribute to the ecological success of introduced populations.</dcterms:abstract>
+        <dc:date>19/08/2019 11:30:48</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>neobiota.pensoft.net</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://neobiota.pensoft.net/article/36086/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:55:20</dcterms:dateSubmitted>
+        <dc:rights>2021Antoine Felden, Carolina Paris, David G. Chapple, Andrew V. Suarez, Neil D. Tsutsui, Philip J. Lester, Monica A. M. Gruber</dc:rights>
+        <dc:description>Publisher: Pensoft Publishers</dc:description>
+        <bib:pages>105-126</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1314-2488">
+        <prism:volume>49</prism:volume>
+        <dc:title>NeoBiota</dc:title>
+        <dc:identifier>DOI 10.3897/neobiota.49.36086</dc:identifier>
+        <dc:identifier>ISSN 1314-2488</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://neobiota.pensoft.net/article/36086/download/pdf/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:55:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_67">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://neobiota.pensoft.net/article/36086/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:55:39</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41598-019-41843-5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2045-2322"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lester</foaf:surname>
+                        <foaf:givenName>Philip J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buick</foaf:surname>
+                        <foaf:givenName>Kaitlin H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baty</foaf:surname>
+                        <foaf:givenName>James W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Felden</foaf:surname>
+                        <foaf:givenName>Antoine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haywood</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_64"/>
+        <link:link rdf:resource="#item_66"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Invasive species</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Microbial ecology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Different bacterial and viral pathogens trigger distinct immune responses in a globally invasive ant</dc:title>
+        <dcterms:abstract>Invasive species populations periodically collapse from high to low abundance, sometimes even to extinction. Pathogens and the burden they place on invader immune systems have been hypothesised as a mechanism for these collapses. We examined the association of the bacterial pathogen (Pseudomonas spp.) and the viral community with immune gene expression in the globally invasive Argentine ant (Linepithema humile (Mayr)). RNA-seq analysis found evidence for 17 different viruses in Argentine ants from New Zealand, including three bacteriophages with one (Pseudomonas phage PS-1) likely to be attacking the bacterial host. Pathogen loads and prevalence varied immensely. Transcriptomic data showed that immune gene expression was consistent with respect to the viral classification of negative-sense, positive-sense and double-stranded RNA viruses. Genes that were the most strongly associated with the positive-sense RNA viruses such as the Linepithema humile virus 1 (LHUV-1) and the Deformed wing virus (DWV) were peptide recognition proteins assigned to the Toll and Imd pathways. We then used principal components analysis and regression modelling to determine how RT-qPCR derived immune gene expression levels were associated with viral and bacterial loads. Argentine ants mounted a substantial immune response to both Pseudomonas and LHUV-1 infections, involving almost all immune pathways. Other viruses including DWV and the Kashmir bee virus appeared to have much less immunological influence. Different pathogens were associated with varying immunological responses, which we hypothesize to interact with and influence the invasion dynamics of this species.</dcterms:abstract>
+        <dc:date>2019-04-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.nature.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41598-019-41843-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:55:27</dcterms:dateSubmitted>
+        <dc:rights>2019 The Author(s)</dc:rights>
+        <dc:description>Bandiera_abtest: a
+Cc_license_type: cc_by
+Cg_type: Nature Research Journals
+Number: 1
+Primary_atype: Research
+Publisher: Nature Publishing Group
+Subject_term: Invasive species;Microbial ecology
+Subject_term_id: invasive-species;microbial-ecology</dc:description>
+        <bib:pages>5780</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2045-2322">
+        <prism:volume>9</prism:volume>
+        <dc:title>Scientific Reports</dc:title>
+        <dc:identifier>DOI 10.1038/s41598-019-41843-5</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Sci Rep</dcterms:alternative>
+        <dc:identifier>ISSN 2045-2322</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_64">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41598-019-41843-5.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:55:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_66">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41598-019-41843-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:55:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Royal Society Te Apārangi</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hume</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_69"/>
+        <dc:title>Marsden Fund awards 2018</dc:title>
+        <dcterms:abstract>View Marsden Fund grants awarded in 2018
+
+The definitions of the 10 Marsden Fund panels can be found here
+
+You can download an Excel spreadsheet of these results, including abstracts of all projects, here:  Marsden-2018-annoucement-supplement.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:55:51</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_69">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.royalsociety.org.nz/what-we-do/funds-and-opportunities/marsden/awarded-grants/marsden-fund-awards-2018</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:55:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1021/acs.jnatprod.9b00493">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0163-3864"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bracegirdle</foaf:surname>
+                        <foaf:givenName>Joe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robertson</foaf:surname>
+                        <foaf:givenName>Luke P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hume</foaf:surname>
+                        <foaf:givenName>Paul A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Page</foaf:surname>
+                        <foaf:givenName>Michael J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharrock</foaf:surname>
+                        <foaf:givenName>Abigail V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ackerley</foaf:surname>
+                        <foaf:givenName>David F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carroll</foaf:surname>
+                        <foaf:givenName>Anthony R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keyzers</foaf:surname>
+                        <foaf:givenName>Robert A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_71"/>
+        <link:link rdf:resource="#item_73"/>
+        <dc:title>Lamellarin Sulfates from the Pacific Tunicate Didemnum ternerratum</dc:title>
+        <dcterms:abstract>Six new lamellarin sulfates (1–6) were isolated from the methanolic extract of the Pacific tunicate Didemnum ternerratum, collected from the Kingdom of Tonga. Mass spectrometric molecular networking through the GNPS platform was used to target the isolation of 1–6. Planar structures were elucidated through a combination of NMR and MS experiments. Through comparison of experimental and calculated ECD spectra, the absolute configurations of atropisomers 2–5 were determined, with their energetic barriers to racemization also determined computationally. The cytotoxicity of the compounds was tested against the human colon carcinoma cell line HCT-116, where lamellarin D-8-sulfate (5) exhibited moderate activity with an IC50 of 9.7 μM.</dcterms:abstract>
+        <dc:date>2019-07-26</dc:date>
+        <z:libraryCatalog>ACS Publications</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1021/acs.jnatprod.9b00493</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:56:35</dcterms:dateSubmitted>
+        <dc:description>Publisher: American Chemical Society</dc:description>
+        <bib:pages>2000-2008</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0163-3864">
+        <prism:volume>82</prism:volume>
+        <dc:title>Journal of Natural Products</dc:title>
+        <dc:identifier>DOI 10.1021/acs.jnatprod.9b00493</dc:identifier>
+        <prism:number>7</prism:number>
+        <dcterms:alternative>J. Nat. Prod.</dcterms:alternative>
+        <dc:identifier>ISSN 0163-3864</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/pdf/10.1021/acs.jnatprod.9b00493</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:56:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_73">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>ACS Full Text Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.acs.org/doi/full/10.1021/acs.jnatprod.9b00493</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:56:42</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/ajoc.201900430">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2193-5815"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Keng Lung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feld</foaf:surname>
+                        <foaf:givenName>Joey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ben-Tal</foaf:surname>
+                        <foaf:givenName>Yael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Zhaoyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hume</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leitao</foaf:surname>
+                        <foaf:givenName>Erin M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_74"/>
+        <link:link rdf:resource="#item_75"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>alcoholysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>aminolysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>deuterium labelling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>facile exchange</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>H-phosphonate diester</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>hydrolysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>isotopic scrambling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>tautomerization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Facile Substituent Exchange at H-Phosphonate Diesters Limiting an Effective Synthesis of D-Phosphonate Diesters</dc:title>
+        <dcterms:abstract>Research on using H-phosphonate diesters to introduce phosphorus functionality into molecules and polymers, some of which have medicinal applications, has recently attracted a lot of attention. Deuterium labelling to yield the corresponding D-phosphonate diesters, although desirable in order to help with the mechanistic elucidation of reactions containing H-phosphonate diesters, has been demonstrated to be a challenge. Deuterium exchange at H-phosphonate diesters using D2O, MeOD and ND2Bn has shown competitive behavior with hydrolysis, alcoholysis and aminolysis reactions, respectively. This facile substituent exchange for the addition of D2O and MeOD can be attributed to the similar energy required to eliminate ROH or H2O (ROD or HOD, R=iPr, Et, Me) from a pentavalent P(V) intermediate which is generated from axial delivery of an OD or OR group from D2O and MeOD, respectively. The trend in reaction rate for the exchange processes follows the order of R=Me&gt;Et&gt;iPr in (RO)2P(O)H and also depends on the nucleophilicity of the incoming group. Attempted synthesis of D-phosphonate diesters directly from PCl3 and alcohols or via lithiation reactions further demonstrated just how sensitive the H/D-scrambling process is. These results have implications for the general reactivity of H-phosphonate diesters towards water, alcohol, and amines and their potential to selectively undergo substitution at either P-OR or P-H. Moreover, insight into the mechanism(s) of selective deuterium exchange, for example to give D-phosphonate diesters via the direct exchange of D for H, was illuminated through this research.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/ajoc.201900430</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:56:41</dcterms:dateSubmitted>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajoc.201900430</dc:description>
+        <bib:pages>1415-1425</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2193-5815">
+        <prism:volume>8</prism:volume>
+        <dc:title>Asian Journal of Organic Chemistry</dc:title>
+        <dc:identifier>DOI 10.1002/ajoc.201900430</dc:identifier>
+        <prism:number>8</prism:number>
+        <dc:identifier>ISSN 2193-5815</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_74">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/full/10.1002/ajoc.201900430</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:56:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajoc.201900430</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-09 01:56:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
